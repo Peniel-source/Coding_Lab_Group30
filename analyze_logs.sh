@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # Setting file paths in variables
-report_file="reports/analysis_report.txt"
+report_file="hospital_data/reports/analysis_report.txt"
 log_dir="hospital_data/active_logs"
 
 # Displaying the menu to the user
@@ -14,15 +14,15 @@ read -p "Enter choice (1-3): " option
 # Selecting the file based on the user's input
 case $option in
      1)
-	log_file=$log_dir/heart_rate.log
+	log_file=$log_dir/heart_rate_log.log
 	log_type="Heart Rate"
 	;;
      2)
-	log_file=$log_dir/temperature.log
+	log_file=$log_dir/temperature_log.log
 	log_type="Temperature"
 	;;
      3)
-	log_file=$log_dir/water_usage.log
+	log_file=$log_dir/water_usage_log.log
 	log_type="Water Usage"
 	;;
      *)
