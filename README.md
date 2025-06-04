@@ -1,12 +1,15 @@
 # Group_Coding_Lab_Group30
 Title of the project: Hospital Data Monitoring & Archival System.
- Objective Of the Project
+
+Objective Of the Project
+
 This project aims to:
 Collect real-time patient health metrics and resource usage data
 1. Provide controlled log archiving with user selection
 2. Generate analytical reports with device statistics and temporal patterns
 Required System Setup:
-1. Below are three different Python scripts we used in our project that mimic real devices to generate data. They are heart_monitor.py, temp_sensor.py, and water_meter.py
+1.Three different Python scripts we used in our project that mimic real devices to generate data. They are heart_monitor.py, temp_sensor.py, and water_meter.py
+
 Completed Required Tasks
 The directory “hospital_data/” is created manually. The other directories are created automatically when the simulators are run.
 We wrote the two scripts,  archive_logs.sh and analyze_logs.sh. 
