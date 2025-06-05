@@ -4,6 +4,7 @@ Title of the project: Hospital Data Monitoring & Archival System.
 Objective Of the Project
 
 This project aims to:
+
 Collect real-time patient health metrics and resource usage data
 1. Provide controlled log archiving with user selection
 2. Generate analytical reports with device statistics and temporal patterns
