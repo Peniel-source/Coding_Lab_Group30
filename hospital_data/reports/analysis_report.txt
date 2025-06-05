@@ -4,3 +4,33 @@ Device Entry Counts:
      92 2025-06-04
 First entry time: 14:06:58 HeartRate_Monitor_A 100
 Last entry time:  14:07:42 HeartRate_Monitor_B 71
+------ Heart Rate Log Analysis ------
+Date: Wed Jun  4 14:28:13 SAST 2025
+Device Entry Counts:
+     92 2025-06-04
+First entry time: 14:06:58 HeartRate_Monitor_A 100
+Last entry time:  14:07:42 HeartRate_Monitor_B 71
+------ Heart Rate Log Analysis ------
+Date: Thu Jun  5 14:13:15 SAST 2025
+Device Entry Counts:
+    146 2025-06-05
+First entry time: 14:12:03 HeartRate_Monitor_A 74
+Last entry time:  14:13:14 HeartRate_Monitor_B 97
+------ Temperature Log Analysis ------
+Date: Thu Jun  5 14:13:24 SAST 2025
+Device Entry Counts:
+    160 2025-06-05
+First entry time: 14:12:07 Temp_Recorder_A 38.9
+Last entry time:  14:13:24 Temp_Recorder_B 38.1
+------ Water Usage Log Analysis ------
+Date: Thu Jun  5 14:13:28 SAST 2025
+Device Entry Counts:
+     78 2025-06-05
+First entry time: 14:12:12 Water_Consumption_Meter 3
+Last entry time:  14:13:27 Water_Consumption_Meter 5
+------ Heart Rate Log Analysis ------
+Date: Thu Jun  5 14:28:14 SAST 2025
+Device Entry Counts:
+   1964 2025-06-05
+First entry time: 14:12:03 HeartRate_Monitor_A 74
+Last entry time:  14:28:14 HeartRate_Monitor_B 76

@@ -34,5 +34,3 @@ If conditions are used to check the existence of log file selected by the user a
 Log types and current date as header in the report for the sake of clarity is printed for the user. echo command is used.
 Then the number of entries per device, first and last timestamp entries are gotten. Finally the the script wrapps up the process by printing the message  “analysis complete. Results saved to $report_file”
 The file “analysis_report.txt”  stores the results analized by the analyze_logs.sh. 
-
-
